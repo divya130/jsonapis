@@ -1,11 +1,45 @@
 {
-  "posts": [
+  "cities": [
     {
       "id": 1,
-      "title": "hello"
+      "city_name": "bangalore",
+      "city_image":''
+    },{
+      "id": 2,
+      "city_name": "mangalore",
+      "city_image":''
+    },{
+      "id": 3,
+      "city_name": "chennai",
+      "city_image":''
+    },{
+      "id": 4,
+      "city_name": "hydrabad",
+      "city_image":''
+    },{
+      "id": 5,
+      "city_name": "mumbai",
+      "city_image":''
+    },{
+      "id": 6,
+      "city_name": "kerala",
+      "city_image":''
+    },{
+      "id": 7,
+      "city_name": "punjab",
+      "city_image":''
+    },{
+      "id": 8,
+      "city_name": "Assam",
+      "city_image":''
+    }{
+      "id": 9,
+      "city_name": "mysore",
+      "city_image":''
+    },{
+      "id": 10,
+      "city_name": "delhi",
+      "city_image":''
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
