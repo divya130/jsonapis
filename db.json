@@ -3,43 +3,43 @@
     {
       "id": 1,
       "city_name": "bangalore",
-      "city_image":''
+      "city_image":'https://ibb.co/ecjofU'
     },{
       "id": 2,
       "city_name": "mangalore",
-      "city_image":''
+       "city_image":'https://ibb.co/ecjofU'
     },{
       "id": 3,
       "city_name": "chennai",
-      "city_image":''
+      "city_image":'https://ibb.co/ecjofU'
     },{
       "id": 4,
       "city_name": "hydrabad",
-      "city_image":''
+      "city_image":'https://ibb.co/ecjofU'
     },{
       "id": 5,
       "city_name": "mumbai",
-      "city_image":''
+      "city_image":'https://ibb.co/ecjofU'
     },{
       "id": 6,
       "city_name": "kerala",
-      "city_image":''
+      "city_image":'https://ibb.co/ecjofU'
     },{
       "id": 7,
       "city_name": "punjab",
-      "city_image":''
+       "city_image":'https://ibb.co/ecjofU'
     },{
       "id": 8,
       "city_name": "Assam",
-      "city_image":''
+       "city_image":'https://ibb.co/ecjofU'
     }{
       "id": 9,
       "city_name": "mysore",
-      "city_image":''
+       "city_image":'https://ibb.co/ecjofU'
     },{
       "id": 10,
       "city_name": "delhi",
-      "city_image":''
+       "city_image":'https://ibb.co/ecjofU'
     }
   ]
 }
